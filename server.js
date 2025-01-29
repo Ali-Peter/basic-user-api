@@ -10,7 +10,7 @@ app.use(cors());
 app.get("/", (req, res) => {
   res.json({
     email: "aliogochukwu06@gmail.com",
-    current_datetime: new Date().toISOString(),
+    current_datetime: new Date().toISOString().replace(/\.\d{3}Z$/, "Z"),
     github_url: "https://github.com/Ali-Peter/basic-user-api.git"
   });
 });
