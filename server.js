@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
   res.json({
     email: "aliogochukwu06@gmail.com",
     current_datetime: new Date().toISOString(),
-    github_url: "https://github.com/Ali-Peter/basic-user-api.git"
+    github_url: "https://github.com/Ali-Peter/basic-user-api"
   });
 });
 

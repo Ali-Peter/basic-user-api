@@ -19,7 +19,7 @@ The JSON output contains "email" which shows the registered email address (HNG12
 {
   "email": "aliogochukwu06@gmail.com",
   "current_datetime": "2025-01-30T04:37:59Z",
-  "github_url": "https://github.com/Ali-Peter/basic-user-api.git"
+  "github_url": "https://github.com/Ali-Peter/basic-user-api"
 }
 ```
 
@@ -38,7 +38,7 @@ Or visit the URL in your browser.
  ## Steps to Run Locally
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Ali-Peter/basic-user-api.git
+   git clone https://github.com/Ali-Peter/basic-user-api
    cd HNG_STAGE_0
    ```
 
@@ -74,5 +74,5 @@ Or visit the URL in your browser.
 
 ## Links
 ## Links
-- **Project Repository:** [GitHub Repo](https://github.com/Ali-Peter/basic-user-api.git)
+- **Project Repository:** [GitHub Repo](https://github.com/Ali-Peter/basic-user-api)
 - **Hire Node.js Developers:** [Node.js Developers](https://hng.tech/hire/nodejs-developers)
