@@ -18,7 +18,7 @@ The JSON output contains "email" which shows the registered email address (HNG12
 ```json
 {
   "email": "aliogochukwu06@gmail.com",
-  "current_datetime": "2025-01-29T17:12:50.986Z",
+  "current_datetime": "2025-01-30T04:37:59Z",
   "github_url": "https://github.com/Ali-Peter/basic-user-api.git"
 }
 ```
