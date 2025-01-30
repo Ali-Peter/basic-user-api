@@ -8,7 +8,7 @@ The JSON output contains "email" which shows the registered email address (HNG12
 
 ## API DOCUMENTATION
  # Endpoint URL
-   GET: https://basic-user-api.onrender.com
+   GET: https://basic-user-api-2.onrender.com/
 
  # Request
 - Method: `GET`
@@ -26,7 +26,7 @@ The JSON output contains "email" which shows the registered email address (HNG12
 # Example Usage
 Test the API using `curl`:
 ```sh
-curl -X GET https://basic-user-api.onrender.com
+curl -X GET https://basic-user-api-2.onrender.com/
 ```
 Or visit the URL in your browser.
 
