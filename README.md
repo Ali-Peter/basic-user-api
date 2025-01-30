@@ -73,4 +73,6 @@ Or visit the URL in your browser.
 - Using Express.js ensures lightweight and efficient request handling
 
 ## Links
-- Hire Node.js Developers: https://hng.tech/hire/nodejs-developers
+## Links
+- **Project Repository:** [GitHub Repo](https://github.com/Ali-Peter/basic-user-api.git)
+- **Hire Node.js Developers:** [Node.js Developers](https://hng.tech/hire/nodejs-developers)
